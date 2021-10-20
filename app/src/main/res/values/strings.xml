@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Remake_Diceroller</string>
+    <string name="Roll_Dice">Roll Dice</string>
+    <string name="User_name">User name</string>
+    <string name="Type_your_name">Type your name</string>
+    <string name="Username_button">OK!</string>
+</resources>
